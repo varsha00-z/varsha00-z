@@ -1,45 +1,43 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    ANIMATED HEADER                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Varsha%20Singh&fontSize=55&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VARSHA%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20Developer&descAlignY=60&descSize=18&color=gradient" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;BCA+%7C+Data+Science+%26+AI+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+Data+Analytics;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Building+%7C+Learning+%7C+Improving" />
 </p>
 
 <p align="center">
   <a href="https://github.com/varsha00-z">
-    <img src="https://komarev.com/ghpvc/?username=varsha00-z&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=varsha00-z&label=Profile%20Views&style=flat-square&color=58A6FF"/>
   </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👋 Hello, I'm Varsha Singh
 
-Hi! I'm **Varsha Singh**, a **BCA student specializing in Data Science & AI**.
+🎓 **BCA — Data Science & AI**
 
-I'm interested in building practical applications using **Python, Machine Learning, Data Analytics, NLP and Web Technologies**.
+I'm a student passionate about **Python, Artificial Intelligence, Machine Learning, Data Analytics and Web Development**.
+
+I enjoy turning ideas into practical projects and continuously improving my programming and problem-solving skills.
 
 ```text
-🎓 BCA — Data Science & AI
-🐍 Python Developer
-🤖 AI & Machine Learning Enthusiast
-📊 Data Analytics Explorer
-🌐 Web Development Learner
-🚀 Always Learning • Building • Improving
+🤖 AI & Machine Learning
+📊 Data Analytics
+🐍 Python Development
+🌐 Web Development
+🧠 Problem Solving
+🚀 Project Building
 ```
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### 💻 Programming
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
@@ -51,18 +49,17 @@ I'm interested in building practical applications using **Python, Machine Learni
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -71,81 +68,81 @@ I'm interested in building practical applications using **Python, Machine Learni
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤝 Skill Swap Platform
+<h3>🤝 Skill Swap Platform</h3>
 
-A platform designed to help users **connect, share and exchange skills** with each other.
+A platform where users can connect with others and exchange skills.
 
-**Tech Stack**
+<b>Tech:</b>
 
-`Python` `Web Development` `MySQL`
+`Python` `MySQL` `Web Development`
 
-**Highlights**
+<br>
 
-* 👤 User-oriented platform
-* 🔄 Skill exchange concept
-* 🗄️ Database integration
-* 🌐 Full-stack development
+🔹 User-oriented platform
+🔹 Skill exchange functionality
+🔹 Database integration
+🔹 Full-stack development
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🤖 AI Personal Learning Assistant
+<h3>🤖 AI Personal Learning Assistant</h3>
 
-An AI-powered learning assistant designed to help students **learn, organize and understand study material**.
+An AI-based learning assistant designed to help students understand and organize their learning.
 
-**Tech Stack**
+<b>Tech:</b>
 
 `Python` `NLP` `Machine Learning`
 
-**Highlights**
+<br>
 
-* 🧠 NLP-based interaction
-* 📚 Learning assistance
-* 🔎 Text processing
-* 🤖 AI-powered features
+🔹 NLP-based processing
+🔹 Learning assistance
+🔹 Text understanding
+🔹 AI-powered features
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📊 Movie Rating Analysis Dashboard
+<h3>📊 Movie Rating Dashboard</h3>
 
-A data analytics project for exploring **movie rating patterns** through visualizations.
+A data analytics project for exploring movie rating pattern through data processing and visualization.
 
-**Tech Stack**
+<b>Tech:</b>
 
 `Python` `Pandas` `Matplotlib`
 
-**Highlights**
+<br>
 
-* 📈 Data visualization
-* 🔍 Data exploration
-* 📊 Statistical insights
-* 🎓 Movie Rating analytics
+🔹 Data cleaning
+🔹 Data analysis
+🔹 Visualizations
+🔹 Academic insights
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📈 AI Job Market Analysis
+<h3>📈 AI Job Market Analysis</h3>
 
-A data analytics project focused on discovering **patterns and trends in the AI job market**.
+A data analytics project exploring trends and patterns in the AI and technology job market.
 
-**Tech Stack**
+<b>Tech:</b>
 
 `Python` `Pandas` `Matplotlib`
 
-**Highlights**
+<br>
 
-* 📊 Dataset analysis
-* 💼 Job market insights
-* 📈 Visual analytics
-* 🔎 Pattern discovery
+🔹 Dataset exploration
+🔹 Job market analysis
+🔹 Data visualization
+🔹 Pattern discovery
 
 </td>
 </tr>
@@ -153,28 +150,27 @@ A data analytics project focused on discovering **patterns and trends in the AI 
 
 ---
 
-# 🧠 Currently Learning
+# 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00A67E?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Analytics-217346?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analytics-217346?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=varsha00-z&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=varsha00-z&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsha00-z&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsha00-z&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -184,37 +180,25 @@ A data analytics project focused on discovering **patterns and trends in the AI 
 
 ---
 
-# 🐍 My Contribution Journey
+# 🎯 My Goals
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/varsha00-z/varsha00-z/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🎯 2026–27 Goals
-
-```text
-🤖 Strengthen AI & Machine Learning
-📊 Improve Data Analytics skills
-🧠 Master DSA & problem solving
-🌐 Build production-ready applications
-🚀 Create impactful real-world projects
-💼 Prepare for internships & placements
-🌟 Explore Open Source
-```
+* 🚀 Build real-world applications
+* 🤖 Strengthen AI & Machine Learning
+* 📊 Improve Data Analytics skills
+* 🧠 Master DSA and problem solving
+* 🌐 Build better web applications
+* 💼 Prepare for internships and placements
+* 🌟 Explore Open Source
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/varsha00-z">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Add your email below -->
 
 <a href="mailto:varshasingh5125@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -226,28 +210,8 @@ A data analytics project focused on discovering **patterns and trends in the AI 
 
 <p align="center">
 
-### ✨ "Build. Learn. Improve. Repeat." 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%"/>
 
-**Thanks for visiting my profile!**
+### 💻 Build • Learn • Create • Repeat 🚀
 
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" width="100%"/>
-</p>
-
-
-<!--
-**varsha00-z/varsha00-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
