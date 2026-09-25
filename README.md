@@ -1,10 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;section=header&amp;text=VARSHA%20SINGH&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Data%20Science%20%26%20AI%20Student%20%7C%20Developer&amp;descAlignY=60&amp;descSize=18&amp;color=gradient"
-    width="100%"
-    alt="Varsha Singh - Data Science and AI Student"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VARSHA%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student&descAlignY=60&color=gradient" width="100%" alt="Varsha Singh Banner">
 </p>
 <p align="center">
   <img
