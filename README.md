@@ -1,17 +1,17 @@
-<!-- ==================== HEADER ==================== -->
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VARSHA%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20Developer&descAlignY=60&descSize=18&color=gradient" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VARSHA%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student%20%7C%20Developer&descAlignY=60&descSize=18&color=gradient"
+    width="100%"
+    alt="Varsha Singh - Data Science and AI Student"
+  />
 </p>
-
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Building+%7C+Learning+%7C+Improving" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/varsha00-z">
-    <img src="https://komarev.com/ghpvc/?username=varsha00-z&label=Profile%20Views&style=flat-square&color=58A6FF"/>
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Science+%26+AI+Student;Python+Developer;Machine+Learning+Enthusiast;Data+Analytics+Explorer;Building+%7C+Learning+%7C+Improving"
+    alt="Typing animation"
+  />
 </p>
 
 ---
