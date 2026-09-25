@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VARSHA%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%26%20AI%20Student&descAlignY=60&color=gradient" width="100%" alt="Varsha Singh Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=VARSHA%20SINGH&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%">
 </p>
 <p align="center">
   <img
