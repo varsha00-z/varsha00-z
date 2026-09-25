@@ -113,9 +113,9 @@ An AI-powered learning assistant designed to help students **learn, organize and
 <tr>
 <td width="50%">
 
-## 📊 Student Performance Dashboard
+## 📊 Movie Rating Analysis Dashboard
 
-A data analytics project for exploring **student performance and academic patterns** through visualizations.
+A data analytics project for exploring **movie rating patterns** through visualizations.
 
 **Tech Stack**
 
@@ -126,7 +126,7 @@ A data analytics project for exploring **student performance and academic patter
 * 📈 Data visualization
 * 🔍 Data exploration
 * 📊 Statistical insights
-* 🎓 Student analytics
+* 🎓 Movie Rating analytics
 
 </td>
 
