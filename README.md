@@ -160,9 +160,9 @@ A data analytics project exploring trends and patterns in the AI and technology 
 
 ---
 
-# 📊 GitHub Statistics
+<!--# 📊 GitHub Statistics
 
-<!--<p align="center">
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=varsha00-z&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
