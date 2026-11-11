@@ -68,10 +68,11 @@ I enjoy turning ideas into practical projects and continuously improving my prog
 <h3>🤝 Skill Swap Platform</h3>
 
 A platform where users can connect with others and exchange skills.
+*Currently working
 
 <b>Tech:</b>
 
-`Python` `MySQL` `Web Development`
+`React.js` `Express.js` `MySQL` `Web Development`
 
 <br>
 
@@ -84,7 +85,7 @@ A platform where users can connect with others and exchange skills.
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI Personal Learning Assistant</h3>
+<h3>🤖 LearnAI Personal Learning Assistant</h3>
 
 An AI-based learning assistant designed to help students understand and organize their learning.
 
@@ -161,7 +162,7 @@ A data analytics project exploring trends and patterns in the AI and technology 
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<!--<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=varsha00-z&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
@@ -171,7 +172,7 @@ A data analytics project exploring trends and patterns in the AI and technology 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=varsha00-z&theme=tokyonight&hide_border=true" />
-</p>
+</p>-->
 
 ---
 
